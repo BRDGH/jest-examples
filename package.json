@@ -18,7 +18,7 @@
   "repository": "https://github.com/BRDGH/jest-examples.git",
   "scripts": {
     "lint": "eslint .",
-    "postinstall": "husky",
+    "prepare": "husky",
     "test": "jest --bail --coverage"
   },
   "version": "1.0.0"

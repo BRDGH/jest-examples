@@ -1,0 +1,4 @@
+yarn lint
+
+# Uncomment for: Testing Hooks Without Committing
+# exit 1
